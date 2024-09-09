@@ -13,7 +13,5 @@ Passionate about programming with Python, C#, and web technologies.
 
 Feel free to check out my repositories and connect with me!
 
-[GitHub](https://github.com/mxweir)
-
 
 
