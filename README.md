@@ -1,5 +1,4 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mxweir&label=Profile%20views&color=0e75b6&style=flat" alt="mxweir" /> </p>
-
 ## Hi, I'm Max 👋
 
 I'm a 22-year-old IT apprentice from Stuttgart, Germany, specializing in application development. 
