@@ -5,6 +5,7 @@ Passionate about programming with Python, C#, and web technologies.
 
 🚀 **Current Projects:**
 - Exploring innovative automation solutions
+- Exploring Reinforced Learning using Python
 - Contributing to open-source projects
 
 🌟 **Fun Fact:** I'm always on the lookout for efficient code and clean solutions!
