@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Max 👋</h1>
-<p align="center">💻 IT apprentice from Stuttgart • Passionate about automation, clean code & creative tech</p>
+<p align="center">💻 IT specialist from Stuttgart • Passionate about automation, clean code & creative tech</p>
 
 ---
 
 ### 🚀 About Me
 
-- 🧑‍💻 **22 y/o** IT apprentice, focused on application development  
+- 🧑‍💻 **23 y/o** IT specialist in application development
 - 🛠️ Building smart solutions with **Python**, **C#**, **React**, **Next.js**, **UiPath**, and the **Microsoft Power Platform**  
 - 🤖 Interested in automation, data-driven apps & everything that saves time and clicks  
 - 🌍 Languages: **German** 🇩🇪 | **English** 🇬🇧 | **Russian** 🇷🇺
